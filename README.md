@@ -66,7 +66,7 @@ ESP32, PCB Design, Sensor Integration, Telemetry Systems, Firebase
 
 International Journal of System Assurance Engineering and Management (Springer Nature), 2025
 
-DOI: 10.1007/s13198-025-02985-0
+DOI: [10.1007/s13198-025-02985-0](https://doi.org/10.1007/s13198-025-02985-0)
 
 ---
 
