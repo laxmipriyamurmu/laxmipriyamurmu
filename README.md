@@ -72,6 +72,8 @@ DOI: 10.1007/s13198-025-02985-0
 
 ## Connect With Me
 
-LinkedIn: [www.linkedin.com/in/laxmipriyamurmu](http://www.linkedin.com/in/laxmipriyamurmu)
+🔗 [LinkedIn](https://www.linkedin.com/in/laxmipriyamurmu/)
 
-Email: [laxmipriyam1405@gmail.com](mailto:laxmipriyam1405@gmail.com)
+💻 [GitHub](https://github.com/laxmipriyamurmu)
+
+📧 laxmipriyam1405@gmail.com
