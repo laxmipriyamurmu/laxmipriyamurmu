@@ -1,6 +1,6 @@
 # Hi, I'm Laxmipriya Murmu 👋
 
-🚀 Aerospace Engineering Undergraduate at Lovely Professional University
+🚀 Aerospace Engineering Undergraduate | Rocket Propulsion | Space Systems | CFD & Aerodynamics
 
 ## About Me
 
