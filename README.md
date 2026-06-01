@@ -72,23 +72,39 @@ I am actively seeking opportunities in **propulsion, space systems, CFD, and aer
 
 ## Featured Projects
 
-🚀 **Hybrid Rocket Motor Development**
+🚀 **[Hybrid Rocket Motor Development](https://github.com/laxmipriyamurmu/Hybrid-Rocket-Motor)**
+
 Design and performance evaluation of a 100 N-class hybrid rocket motor using paraffin-based fuel and liquid oxygen.
 
-🚀 **E-Class Solid Propellant Rocket**
+---
+
+🚀 **[E-Class Solid Propellant Rocket](https://github.com/laxmipriyamurmu/E-Class-Rocket)**
+
 Development of a competition-winning E-class rocket with parachute recovery system.
 
-🛰️ **LUMISAT – CubeSat for Artificial Light Pollution Monitoring**
+---
+
+🛰️ **[LUMISAT – CubeSat for Artificial Light Pollution Monitoring](https://github.com/laxmipriyamurmu/LUMISAT-CubeSat)**
+
 1.5U CubeSat integrating sensing, telemetry, PCB development, and environmental monitoring systems.
 
-✈️ **Hypersonic Vehicle CFD Analysis**
+---
+
+✈️ **[Hypersonic Vehicle CFD Analysis](https://github.com/laxmipriyamurmu/Hypersonic-CFD)**
+
 Mach 5 and Mach 7 aerodynamic performance analysis using ANSYS Fluent.
 
-🛩️ **NACA 23012 Airfoil Design and Wind Tunnel Testing**
+---
+
+🛩️ **[NACA 23012 Airfoil Design and Wind Tunnel Testing](https://github.com/laxmipriyamurmu/NACA-Airfoil)**
+
 Design, fabrication, and experimental validation of a slotted NACA 23012 airfoil.
 
-📄 **Transport Aircraft Selection Using Hybrid CRITIC-TOPSIS**
-Springer-published research on transport aircraft selection under uncertainty using MCDM techniques.
+---
+
+📄 **[Transport Aircraft Selection Using Hybrid CRITIC-TOPSIS](https://github.com/laxmipriyamurmu/Transport-Aircraft-Selection-CRITIC-TOPSIS)**
+
+Springer-published research on transport aircraft selection under uncertainty using Multi-Criteria Decision-Making (MCDM) techniques.
 
 ---
 
@@ -145,9 +161,9 @@ DOI: **10.1007/s13198-025-02985-0**
 
 ## Connect With Me
 
-🔗 LinkedIn: https://www.linkedin.com/in/laxmipriyamurmu/
+🔗 LinkedIn: [www.linkedin.com/in/laxmipriyamurmu](http://www.linkedin.com/in/laxmipriyamurmu)
 
-💻 GitHub: https://github.com/laxmipriyamurmu
+💻 GitHub: github.com/laxmipriyamurmu
 
 📧 Email: [laxmipriyam1405@gmail.com](mailto:laxmipriyam1405@gmail.com)
 
