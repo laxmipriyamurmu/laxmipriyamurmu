@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a final-year Aerospace Engineering undergraduate with interests in Rocket Propulsion, Space Systems Engineering, Computational Fluid Dynamics (CFD), and Aerodynamics.
+I am an Aerospace Engineering undergraduate with interests in Rocket Propulsion, Space Systems Engineering, Computational Fluid Dynamics (CFD), and Aerodynamics.
 
 My experience includes hybrid rocket motor development, solid rocket propulsion systems, CubeSat subsystem integration, hypersonic CFD analysis, wind tunnel experimentation, and aerospace data analytics.
 
