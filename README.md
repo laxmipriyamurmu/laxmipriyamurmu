@@ -138,7 +138,7 @@ https://www.linkedin.com/in/laxmipriyamurmu/
 https://github.com/laxmipriyamurmu
 
 🌐 Portfolio  
-https://laxmipriyaportfolio.my.canva.site/laxmiportfolio
+https://laxmipriyaportfolio.my.canva.site/my-portfolio
 
 📧 Email  
 laxmipriyam1405@gmail.com
