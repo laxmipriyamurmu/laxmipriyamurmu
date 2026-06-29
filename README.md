@@ -125,7 +125,7 @@ DOI: https://doi.org/10.1007/s13198-025-02985-0
 
 🌐 Portfolio Website
 
-https://laxmipriyaportfolio.my.canva.site/laxmiportfolio
+https://laxmipriyaportfolio.my.canva.site/my-portfolio
 
 ---
 
