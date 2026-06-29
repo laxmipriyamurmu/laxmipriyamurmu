@@ -1,150 +1,205 @@
 # Hi, I'm Laxmipriya Murmu 👋
 
-🚀 Aerospace Engineering Undergraduate | Rocket Propulsion | Space Systems | CFD & Aerodynamics
+🚀 **Aerospace Engineering Undergraduate | Rocket Propulsion | Space Systems | CFD & Aerodynamics**
 
-## About Me
+I am a final-year Aerospace Engineering undergraduate passionate about propulsion systems, spacecraft engineering, aerodynamics, and computational analysis. My work spans experimental research, aerospace design, CFD simulations, CubeSat development, embedded systems, and engineering optimization.
 
-I am an Aerospace Engineering undergraduate with interests in Rocket Propulsion, Space Systems Engineering, Computational Fluid Dynamics (CFD), and Aerodynamics.
-
-My experience includes hybrid rocket motor development, solid rocket propulsion systems, CubeSat subsystem integration, hypersonic CFD analysis, wind tunnel experimentation, and aerospace data analytics.
-
-I am actively seeking opportunities in propulsion, space systems, aerodynamics, and aerospace engineering while continuing to develop practical solutions for aerospace applications.
+I enjoy transforming engineering concepts into practical prototypes through design, analysis, manufacturing, testing, and technical research.
 
 ---
 
-## Education
+# 🎓 Education
 
-🎓 **B.Tech in Aerospace Engineering**  
-Lovely Professional University (2022 – 2026)
-
----
-
-## Technical Interests
-
-- Rocket Propulsion
-- Hybrid Rocket Systems
-- Space Systems Engineering
-- CubeSat Development
-- Computational Fluid Dynamics (CFD)
-- Aerodynamics
-- Aerospace Design & Analysis
+**B.Tech in Aerospace Engineering**
+Lovely Professional University
+**2022 – 2026**
 
 ---
 
-## Technical Skills
+# 🚀 Technical Interests
 
-### 🚀 Aerospace & Propulsion
-Rocket Propulsion, Hybrid Rockets, Solid Propellants, NASA CEA, Combustion Analysis, Aerodynamics, Space Systems Engineering
-
-### ✈️ Simulation & Analysis
-ANSYS Fluent, ANSYS Workbench, CFD, FEA, Structural Analysis
-
-### ⚙️ CAD & Design
-CATIA V5, Creo Parametric, SolidWorks, Fusion 360
-
-### 💻 Programming & Analytics
-Python, MATLAB, C++, Machine Learning, Pandas, NumPy, Scikit-Learn
-
-### 🛰️ Embedded Systems
-ESP32, PCB Design, Sensor Integration, Telemetry Systems, Firebase
-
-### 🛠 Manufacturing
-3D Printing, Additive Manufacturing, Prototype Development
+* Rocket Propulsion
+* Hybrid & Solid Rocket Systems
+* Space Systems Engineering
+* CubeSat Development
+* Computational Fluid Dynamics (CFD)
+* Aerodynamics
+* Aircraft Performance
+* Engineering Design & Optimization
 
 ---
 
-## Experience
+# 🛠 Technical Skills
 
-### 🔬 Research Intern | Academy Innova World
+### Aerospace Engineering
 
-- Assisted in aerospace R&D activities and technical research.
-- Worked on aerospace data analytics and machine learning applications.
-- Contributed to scientific publications and technical documentation.
+* Rocket Propulsion
+* Hybrid Rockets
+* Solid Propellants
+* Space Systems
+* Aerodynamics
+* Aircraft Performance
+* NASA CEA
 
-### ⚙️ 3D Printing & FEA Intern | HRDC, Lovely Professional University
+### Simulation & Analysis
 
-- Developed CAD models and engineering designs.
-- Performed Finite Element Analysis (FEA) using ANSYS.
-- Worked with additive manufacturing and prototype fabrication.
+* ANSYS Fluent
+* ANSYS Workbench
+* CFD
+* Structural Analysis
+* Finite Element Analysis (FEA)
 
----
+### CAD & Design
 
-## Featured Projects
+* CATIA V5
+* Creo Parametric
+* SolidWorks
+* Fusion 360
 
-### 🚀 [Hybrid Rocket Motor Development](https://github.com/laxmipriyamurmu/Hybrid-Rocket-Motor)
+### Programming
 
-Design, analysis, and development of a laboratory-scale hybrid rocket motor including propulsion calculations, CAD modeling, manufacturing, and static testing.
+* Python
+* MATLAB
+* C++
+* Machine Learning
+* NumPy
+* Pandas
+* Scikit-learn
 
-### 🚀 [E-Class Solid Propellant Rocket](https://github.com/laxmipriyamurmu/E-Class-Rocket)
+### Embedded Systems
 
-Development of an E-Class amateur rocket including propulsion design, recovery system integration, structural design, and flight testing.
+* ESP32
+* Sensor Integration
+* Telemetry
+* Firebase
+* PCB Design
 
-### 🛰️ [LUMISAT – CubeSat for Artificial Light Pollution Monitoring](https://github.com/laxmipriyamurmu/LUMISAT-CubeSat)
+### Manufacturing
 
-CubeSat concept focused on monitoring artificial light pollution using onboard sensing and data acquisition systems.
-
-### ✈️ [Hypersonic Vehicle CFD Analysis](https://github.com/laxmipriyamurmu/Hypersonic-CFD)
-
-Computational Fluid Dynamics investigation of hypersonic vehicle configurations including aerodynamic performance evaluation and flow analysis.
-
-### 🛩️ [NACA 23012 Airfoil Design and Wind Tunnel Testing](https://github.com/laxmipriyamurmu/NACA-Airfoil)
-
-Design, CFD validation, manufacturing, and experimental wind tunnel testing of a NACA 23012 airfoil model.
-
-### 📄 [Transport Aircraft Selection Using CRITIC–TOPSIS](https://github.com/laxmipriyamurmu/Transport-Aircraft-Selection-CRITIC-TOPSIS)
-
-Published research work involving aircraft selection using a hybrid CRITIC–TOPSIS multi-criteria decision-making framework.
-
----
-
-## Publication
-
-### 📄 Selection of Transport Aircraft Using the Hybrid CRITIC–TOPSIS Method and Imputation of Missing Values in a Neutrosophic Environment
-
-**International Journal of System Assurance Engineering and Management (Springer Nature), 2025**
-
-DOI: https://doi.org/10.1007/s13198-025-02985-0
-
----
-
-## Achievements
-
-🏆 2nd Runner-Up — Innotek Annual Innovation Expo 2026
-
-🚀 Winner — Cognitia 2025 E-Class Rocket Development Competition
-
-📄 Co-Author — Springer Nature Publication (2025)
-
-🥈 Silver Medal — NCC Sangram 2024 (Tug of War)
-
-🏆 Overall Winner — NCC Sangram 2024 (Charlie Platoon)
+* 3D Printing
+* Prototype Development
+* Additive Manufacturing
 
 ---
 
-## Portfolio
+# 💼 Experience
 
-🌐 Portfolio Website
+## Research Intern
+
+**Academy Innova World**
+
+* Assisted in aerospace research and engineering projects.
+* Worked on aircraft performance analysis and engineering optimization.
+* Contributed to Springer-indexed research publications.
+
+---
+
+## 3D Printing & FEA Intern
+
+**HRDC, Lovely Professional University**
+
+* Designed engineering components using CAD software.
+* Performed structural simulations using ANSYS.
+* Worked on additive manufacturing and prototype fabrication.
+
+---
+
+# 🚀 Featured Projects
+
+## 🛰️ LUMISAT – CubeSat for Artificial Light Pollution Monitoring
+
+Telemetry-enabled 1.5U CubeSat integrating onboard sensing, wireless communication, and environmental monitoring.
+
+🔗 https://github.com/laxmipriyamurmu/LUMISAT-CubeSat
+
+---
+
+## 🚀 Hybrid Rocket Motor Development
+
+Design, CAD modeling, thermochemical analysis, manufacturing, and testing of a laboratory-scale hybrid rocket motor.
+
+🔗 https://github.com/laxmipriyamurmu/Hybrid-Rocket-Motor
+
+---
+
+## 🚀 E-Class Solid Rocket
+
+Development of an E-Class solid propellant rocket featuring propulsion, recovery systems, and experimental flight testing.
+
+🔗 https://github.com/laxmipriyamurmu/E-Class-Rocket
+
+---
+
+## ✈️ Hypersonic Vehicle CFD Analysis
+
+Computational investigation of hypersonic flow characteristics using ANSYS Fluent.
+
+🔗 https://github.com/laxmipriyamurmu/Hypersonic-CFD
+
+---
+
+## 🛩️ NACA 23012 Airfoil Design & Wind Tunnel Testing
+
+CAD design, fabrication, and experimental aerodynamic evaluation of a slotted NACA 23012 airfoil.
+
+🔗 https://github.com/laxmipriyamurmu/NACA-Airfoil
+
+---
+
+## 📄 Springer Research Publication
+
+Transport aircraft selection using Hybrid CRITIC-TOPSIS under a Neutrosophic environment.
+
+🔗 https://github.com/laxmipriyamurmu/Transport-Aircraft-Selection-CRITIC-TOPSIS
+
+---
+
+# 📚 Publication
+
+**Selection of Transport Aircraft Using the Hybrid CRITIC–TOPSIS Method and Imputation of Missing Values in a Neutrosophic Environment**
+
+**International Journal of System Assurance Engineering and Management (Springer), 2025**
+
+**DOI**
+
+https://doi.org/10.1007/s13198-025-02985-0
+
+---
+
+# 🏆 Achievements
+
+* 🥈 2nd Runner-Up — Innotek Annual Innovation Expo 2026
+* 🥇 Winner — Cognitia 2025 E-Class Rocket Competition
+* 📄 Co-author — Springer Nature Research Publication (2025)
+* 🥈 Silver Medal — NCC Sangram 2024 (Tug of War)
+* 🏆 Overall Winner — NCC Sangram 2024 (Charlie Platoon)
+
+---
+
+# 🌐 Portfolio
+
+**Portfolio Website**
 
 https://laxmipriyaportfolio.my.canva.site/my-portfolio
 
 ---
 
-## Connect With Me
+# 📫 Connect With Me
 
-🔗 LinkedIn  
+**LinkedIn**
+
 https://www.linkedin.com/in/laxmipriyamurmu/
 
-💻 GitHub  
-https://github.com/laxmipriyamurmu
+**Portfolio**
 
-🌐 Portfolio  
 https://laxmipriyaportfolio.my.canva.site/my-portfolio
 
-📧 Email  
-laxmipriyam1405@gmail.com
+**Email**
+
+[laxmipriyam1405@gmail.com](mailto:laxmipriyam1405@gmail.com)
 
 ---
 
-### Core Domains
+# 🚀 Core Domains
 
-🚀 Rocket Propulsion • 🛰️ Space Systems • ✈️ CFD & Aerodynamics
+**Rocket Propulsion • Space Systems • CFD • Aerodynamics • Aerospace Design • Research**
