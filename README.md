@@ -1,8 +1,8 @@
 # Hi, I'm Laxmipriya Murmu 👋
 
-🚀 **Aerospace Engineering Undergraduate | Rocket Propulsion | Space Systems | CFD & Aerodynamics**
+🚀 **Aerospace Engineering graduate | Rocket Propulsion | Space Systems | CFD & Aerodynamics**
 
-I am a final-year Aerospace Engineering undergraduate passionate about propulsion systems, spacecraft engineering, aerodynamics, and computational analysis. My work spans experimental research, aerospace design, CFD simulations, CubeSat development, embedded systems, and engineering optimization.
+I am an Aerospace Engineering graduate passionate about propulsion systems, spacecraft engineering, aerodynamics, and computational analysis. My work spans experimental research, aerospace design, CFD simulations, CubeSat development, embedded systems, and engineering optimization.
 
 I enjoy transforming engineering concepts into practical prototypes through design, analysis, manufacturing, testing, and technical research.
 
